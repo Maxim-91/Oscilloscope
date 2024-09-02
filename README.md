@@ -1,6 +1,7 @@
 The software product simulates the functions of an oscilloscope, the program interface is close to the appearance of the oscilloscope itself.
 
 General recommendations for the development of the graphical interface were used:
+
 • Main menu. Implemented by the MainMenu1 component.
 
 • Toolbar of quick keys duplicating the main sections of the menu.
