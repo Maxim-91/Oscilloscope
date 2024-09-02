@@ -2,11 +2,17 @@ The software product simulates the functions of an oscilloscope, the program int
 
 General recommendations for the development of the graphical interface were used:
 • Main menu. Implemented by the MainMenu1 component.
+
 • Toolbar of quick keys duplicating the main sections of the menu.
+
 • The context menu (implemented by the PopupMenu1 component), appears when the user right-clicks on the program window or component.
+
 • Tooltip shortcuts that appear when the mouse is hovered over components.
+
 • The colors used in the program are dark on a bright background, so the perception of the program does not tire the user.
+
 • The font and size of the inscriptions in the program are suitable for users.
+
 
 Description of program windows:
 - Oscilloscope v2.0 (Form1): Simulates the appearance of an oscilloscope. In it, you can perform calculations that are carried out in practical work.
