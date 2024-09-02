@@ -15,13 +15,11 @@ General recommendations for the development of the graphical interface were used
 • The font and size of the inscriptions in the program are suitable for users.
 
 
+
 Description of program windows:
-- Oscilloscope v2.0 (Form1): Simulates the appearance of an oscilloscope. In it, you can perform calculations that are carried out in practical work.
-  
-- Calculation formulas (AboutBox): Formulas displayed in the window are necessary for calculations during practical work.
-  
-- About the program (AboutBox1): Contains brief information about the program and a picture of its author.
-  
+- Oscilloscope v2.0 (Form1): Simulates the appearance of an oscilloscope. In it, you can perform calculations that are carried out in practical work.  
+- Calculation formulas (AboutBox): Formulas displayed in the window are necessary for calculations during practical work.  
+- About the program (AboutBox1): Contains brief information about the program and a picture of its author.  
 - Print (Form2): Prints a report of the completed work in the "Oscillograph v2.0" window.
 
 In this program, the components are placed in such a way to more closely simulate the appearance of an oscilloscope and to approximate the work in the program as quickly as possible.
